@@ -9,8 +9,7 @@
 #   HUBOT_LIBRATO_TOKEN
 #
 # Commands:
-#   hubot graph me <instrument> [over the last <time peroid>] [source <source>]
-#   - Get graph from Librato
+#   hubot graph me <instrument> [over the last <time peroid>] [source <source>] - Get graph from Librato
 #
 # Author:
 #   Eric Koslow
